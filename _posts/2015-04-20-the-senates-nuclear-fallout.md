@@ -29,7 +29,7 @@ publisher:
   name: POLITICO
   domain: www.politico.com
 related: []
-dateModified: "2015-05-04T01:32:18.982Z"
+dateModified: "2015-05-04T01:32:27.142Z"
 sourcePath: _posts/2015-04-20-the-senates-nuclear-fallout.md
 published: true
 _type: WebPage
